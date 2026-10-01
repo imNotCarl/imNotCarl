@@ -5,10 +5,29 @@ I am an Information Technology professional specializing in web development, wit
 
 #  Tech Stack:
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kiran1689/kiran1689/main/Skills_Animation_Dark.gif" alt="Animated development skills illustration" width="600" />
-</p>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=plastic&logo=codeIgniter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+<table>
+  <tr>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Kiran1689/kiran1689/main/Skills_Animation_Dark.gif" alt="Animated development skills illustration" width="400" />
+    </td>
+    <td width="55%" align="left" valign="middle">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&amp;logo=php&amp;logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=plastic&amp;logo=codeIgniter&amp;logoColor=white" alt="Code-Igniter" />
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js" />
+      <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&amp;logo=laravel&amp;logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&amp;logo=node.js&amp;logoColor=white" alt="NodeJS" />
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&amp;logo=react&amp;logoColor=%2361DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&amp;logo=vuedotjs&amp;logoColor=%234FC08D" alt="Vue.js" />
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&amp;logo=tailwind-css&amp;logoColor=white" alt="TailwindCSS" />
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&amp;logo=Canva&amp;logoColor=white" alt="Canva" />
+    </td>
+  </tr>
+</table>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
