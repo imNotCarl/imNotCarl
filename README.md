@@ -8,29 +8,7 @@
 
 <p align="left">I'm an IT professional focused on building responsive, user-friendly web applications with Vue.js, the MERN stack, and PHP/Laravel. I work with MySQL and MongoDB and continually develop my skills across front-end and back-end development.</p>
 
-<h1 align="left">Connect with me:</h1>
-
-<div align="center">
-  <a href="https://discord.com/channels/@me/carlll0215">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/carl-edwin-conde">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://www.facebook.com/ceconde15">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
-  </a>
-  <a href="mailto:carledwinconde@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-  <a href="https://www.instagram.com/c.cnd__">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-</div>
-
 <h1 align="left">Tech Stack:</h1>
-
-<br clear="both">
 
 <br clear="both">
 
@@ -71,6 +49,28 @@
 </p>
 
 <br clear="both">
+
+<br clear="both">
+
+<h1 align="left">Connect with me:</h1>
+
+<div align="center">
+  <a href="https://discord.com/channels/@me/carlll0215">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/carl-edwin-conde">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://www.facebook.com/ceconde15">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+  </a>
+  <a href="mailto:carledwinconde@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://www.instagram.com/c.cnd__">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imNotCarl/imNotCarl/pacman-output/pacman-contribution-graph-dark.svg">
