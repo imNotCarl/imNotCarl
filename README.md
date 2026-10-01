@@ -8,8 +8,6 @@
 
 <p align="left">I'm an IT professional focused on building responsive, user-friendly web applications with Vue.js, the MERN stack, and PHP/Laravel. I work with MySQL and MongoDB and continually develop my skills across front-end and back-end development.</p>
 
-<h1 align="left">Tech Stack:</h1>
-
 <h1 align="left">Connect with me:</h1>
 
 <div align="center">
@@ -29,6 +27,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 </div>
+
+<h1 align="left">Tech Stack:</h1>
 
 <br clear="both">
 
