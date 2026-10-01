@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-<img align="left" src="https://raw.githubusercontent.com/Kiran1689/kiran1689/main/Skills_Animation_Dark.gif" alt="Animated development skills illustration" width="380" />
+<img align="left" src="https://raw.githubusercontent.com/Kiran1689/kiran1689/main/Skills_Animation_Dark.gif" alt="Animated development skills illustration" width="350" />
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="vscode logo" />
