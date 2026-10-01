@@ -1,6 +1,6 @@
 
 #  About Me:
-I am an Information Technology professional specializing in web development, with hands-on experience in both front-end and back-end technologies. My core skill set includes HTML, CSS, JavaScript, and modern frameworks such as Vue.js and the MERN stack (MongoDB, Express, React, Node.js).<br><br>I also have experience working with relational databases like MySQL, as well as server-side development using PHP and Laravel. I am adept at developing responsive, user-friendly applications and building efficient, scalable systems.<br><br>I am committed to continuous learning and staying updated with emerging technologies to deliver high-quality solutions in a fast-paced development environment.
+I'm an IT professional focused on building responsive, user-friendly web applications with Vue.js, the MERN stack, and PHP/Laravel. I work with MySQL and MongoDB and continually develop my skills across front-end and back-end development.
 
 
 #  Tech Stack:
