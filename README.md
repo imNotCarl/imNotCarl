@@ -1,60 +1,15 @@
-<h1 align="center">Carl Edwin Conde</h1>
-<p align="center"><strong>Web Developer · Laravel · React · Node.js</strong></p>
-<p align="center">Practical applications. Thoughtful interfaces.</p>
+# 💫 About Me:
+I am an Information Technology professional specializing in web development, with hands-on experience in both front-end and back-end technologies. My core skill set includes HTML, CSS, JavaScript, and modern frameworks such as Vue.js and the MERN stack (MongoDB, Express, React, Node.js).<br><br>I also have experience working with relational databases like MySQL, as well as server-side development using PHP and Laravel. I am adept at developing responsive, user-friendly applications and building efficient, scalable systems.<br><br>I am committed to continuous learning and staying updated with emerging technologies to deliver high-quality solutions in a fast-paced development environment.
 
-<p align="center">
-  <a href="#selected-projects">Selected projects</a> &nbsp;·&nbsp;
-  <a href="#technology">Technology</a> &nbsp;·&nbsp;
-  <a href="https://github.com/imNotCarl?tab=repositories">Explore repositories</a>
-</p>
 
-## About me
-
-I'm **Carl Edwin Conde**, a web developer working with **Laravel, React, and Node.js**. My projects span school administration, attendance workflows, safety information APIs, and task management.
-
-I enjoy connecting useful interfaces with the application logic behind them—from role-based dashboards and QR attendance to API routes and notifications.
-
-## Selected projects
-
-### [SBESQR — School Management & QR Attendance](https://github.com/imNotCarl/SBESQR)
-A Laravel application bringing student records, class schedules, grades, school fees, and attendance into one system.
-
-- Separate workflows for administrators, teachers, and parents.
-- QR-based attendance recording, student ID generation, and report exports.
-- Announcements, SMS integrations, and web push notifications.
-
-**Built with:** PHP · Laravel · Blade · Tailwind CSS
-
-### [SafeRoute — Backend API](https://github.com/imNotCarl/backend-saferoute)
-A Node.js backend with routes for flood reports, evacuation centers, SOS alerts, location data, and weather information.
-
-- Authentication routes and token verification middleware.
-- MongoDB models for users, reports, locations, and alerts.
-- Firebase notification and Google Cloud Storage integrations.
-
-**Built with:** JavaScript · Node.js · Express · MongoDB · Firebase
-
-### [Task Manager — React Interface](https://github.com/imNotCarl/I7_Act)
-A React task management interface for organizing deadlines and tracking completion.
-
-- Filters for overdue, today, upcoming, and completed tasks.
-- Task creation, detail modals, and batch completion actions.
-- Progress indicators driven by React state.
-
-**Built with:** JavaScript · React · Vite · Tailwind CSS
-
-## Technology
-
-| Area | Technologies used in my public projects |
-| :--- | :--- |
-| Frontend | React, Blade, Tailwind CSS, HTML, CSS |
-| Backend | Laravel, PHP, Node.js, Express |
-| Data & integrations | MongoDB, Mongoose, Firebase, Google Cloud Storage |
-| Development | Git, GitHub, Vite, Composer, npm |
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=imNotCarl&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=imNotCarl&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=imNotCarl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=imNotCarl&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <strong>Explore the code, see the details.</strong><br />
-  <a href="https://github.com/imNotCarl?tab=repositories">View my repositories →</a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
