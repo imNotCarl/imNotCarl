@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="./assets/profile-header.svg" alt="Carl Edwin Conde — Web Developer. Practical applications. Thoughtful interfaces." width="100%" />
-</p>
+<h1 align="center">Carl Edwin Conde</h1>
+<p align="center"><strong>Web Developer · Laravel · React · Node.js</strong></p>
+<p align="center">Practical applications. Thoughtful interfaces.</p>
 
 <p align="center">
   <a href="#selected-projects">Selected projects</a> &nbsp;·&nbsp;
