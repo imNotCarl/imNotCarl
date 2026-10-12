@@ -11,9 +11,6 @@
 <h1 align="left">Tech Stack:</h1>
 
 <br clear="both">
-
-<img align="left" src="https://raw.githubusercontent.com/Kiran1689/kiran1689/main/Skills_Animation_Dark.gif" alt="Animated development skills illustration" width="350" margin-botton="100px" />
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="vscode logo" />
   &nbsp;
